@@ -1,0 +1,29 @@
+.image img{
+   border-radius: 10px;
+}
+.dropDownContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto 10%;
+    padding: 10px;
+    text-overflow: hidden;
+}
+.btn{
+    width: 20px;
+    text-align: left;
+    text-overflow: hidden;
+}
+
+@media screen and (max-width:1024px){
+    .dropDownContainer{
+         flex-wrap: wrap;
+         gap: 20px;
+     }
+     .image{
+        font-size: 0.6rem;
+     }
+     .btn{
+        font-size: 0.5rem;
+     }
+}
