@@ -20,7 +20,7 @@ const HeadBase=()=>{
   <div className="image">
     <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D"style={{width:"50px",height:"50px"}}/>
     <div class="dropdown">
-  <button class="btn dropdown-toggle p-0 border-none " type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+  <button class="btn dropdown-toggle p-0 border-none outline-none " type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
     Fashion
   </button>
   <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="dropdownMenuButton2">
@@ -40,7 +40,7 @@ const HeadBase=()=>{
     <div className="image">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeQIsbaW5RTc1WRbJrkbU5rfHF7n1fiDkwA&usqp=CAU"style={{width:"50px",height:"50px"}}/>
     <div class="dropdown">
-  <button class="btn p-0 border-none dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+  <button class="btn p-0 border-none outline-none dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
   Electronics
   </button>
   <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="dropdownMenuButton2">
@@ -88,7 +88,7 @@ const HeadBase=()=>{
     <div className="image">
     <img src="https://5.imimg.com/data5/SELLER/Default/2021/9/SB/ON/FB/38890037/soft-toys-for-kids-500x500.jpeg"style={{width:"50px",height:"50px"}}/>
     <div class="dropdown">
-  <button class="btn p-0 border-none  dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+  <button class="btn p-0 border-none outline-none dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
     Toys
   </button>
   <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="dropdownMenuButton2">
@@ -106,7 +106,7 @@ const HeadBase=()=>{
     <div className="image">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_zwwC5axD1xjeswOzGXf623cuoprqhCsKw&usqp=CAU"style={{width:"50px",height:"50px"}}/>
     <div class="dropdown">
-  <button class="btn p-0 border-none  dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+  <button class="btn p-0 border-none outline-none  dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
     Two Wheelers
   </button>
   <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="dropdownMenuButton2">
