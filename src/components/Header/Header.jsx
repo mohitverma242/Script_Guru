@@ -40,7 +40,7 @@ const Header=()=>{
                 <a className="nav-link" href="#"><IoCartOutline className="fs-2 me-2" />Cart</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active text-grey" aria-current="page" href="#"><CiShop className="fs-2 me-2" />Become a seller</a>
+                <a className="nav-link" aria-current="page" href="#"><CiShop className="fs-2 me-2" />Become a seller</a>
               </li>
             </ul>
           </div>
