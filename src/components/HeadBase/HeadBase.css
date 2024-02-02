@@ -1,13 +1,13 @@
 .image img{
    border-radius: 10px;
 }
+.image{
+    display: grid;
+    margin-left:20px;
+}
 .dropDownContainer{
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    margin: auto 10%;
-    padding: 10px;
-    text-overflow: hidden;
+    width: 80%;
+    margin-left:10%;
 }
 .btn{
     width: 20px;
@@ -16,10 +16,6 @@
 }
 
 @media screen and (max-width:1024px){
-    .dropDownContainer{
-         flex-wrap: wrap;
-         gap: 20px;
-     }
      .image{
         font-size: 0.6rem;
      }
