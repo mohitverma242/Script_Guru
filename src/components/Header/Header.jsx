@@ -19,7 +19,7 @@ const Header=()=>{
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse gap-4" id="navbarSupportedContent"> 
-          <input className="form-control ms-5 w-50" type="search" placeholder="Search" aria-label="Search"/>
+          <input className="form-control ms-5  w-50" type="search" placeholder="Search" aria-label="Search"/>
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 gap-5">
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

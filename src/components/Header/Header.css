@@ -15,3 +15,11 @@
 .navbar-brand{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+@media screen and (max-width:900px) {
+    .form-control{
+        margin-top:20px;
+        margin-left:50%;
+        border: 1px solid black;
+    }
+}
