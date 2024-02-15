@@ -2,7 +2,7 @@ const Footer=()=>{
     return(
    <div className="container-fluid bg-dark mt-5">
      <div  className="row w-100 p-5 gap-5">
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white">
             <h6 className="text-secondary">About Us</h6>
             <p>contact us</p>
             <p>about us</p>
@@ -11,7 +11,7 @@ const Footer=()=>{
             <p>Cleartrip</p>
             <p>Corporation Information</p>
         </div>
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white">
             <h6 className="text-secondary">Help</h6>
             <p>payment</p>
             <p>Shipping</p>
@@ -19,7 +19,7 @@ const Footer=()=>{
             <p>FAQs</p>
             <p>Report Infiringment</p>
         </div>
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white">
             <h6 className="text-secondary">Consumer Policy</h6>
             <p>Cancellation & Returns</p>
             <p>Terms of Use</p>
@@ -28,13 +28,13 @@ const Footer=()=>{
             <p>Grienvance Redressed</p>
             <p>EPR Compiliance</p>
         </div>
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white">
             <h6 className="text-secondary">Social</h6>
             <p>Facebook</p>
             <p>Twitter</p>
             <p>Youtube</p>
         </div>
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white w-25">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white w-25">
             <h6 className="text-secondary">Mail Us:</h6>
             <p className="gap-2">
               Flipkart Internet Private Limited,Building Alyass,Begonia & clove Embassy Tech Village,
@@ -42,7 +42,7 @@ const Footer=()=>{
             </p>
             <p>  Karnataka, India</p>
         </div>
-        <div className="col-sm-12 col-md-1 col-lg-1 col-12 text-white w-25">
+        <div className="col-sm-2 col-md-1 col-lg-1 col-2 text-white w-25">
             <h6 className="text-secondary">Registered Office Address:</h6>
             <p>
              Flipkart Internet Private Limited,Buildings Alyss,Begonia & Clove Embassy Tech Village,Outer Ring Road ,Devarabeesanashalli village ,Bengaluru , 560103, Karnataka ,
